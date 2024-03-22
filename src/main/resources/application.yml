@@ -1,0 +1,12 @@
+spring:
+  application: 
+    name: Payment-service
+  
+eureka:
+  client: 
+    registerWithEureka: true
+    fetchRegistry: true
+    
+
+server:
+  port: 9093
