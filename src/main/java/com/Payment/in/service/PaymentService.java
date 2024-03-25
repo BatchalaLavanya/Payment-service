@@ -1,6 +1,5 @@
 package com.Payment.in.service;
 
-import com.Payment.in.Repository.PaymentRepository;
 import com.Payment.in.model.Payment;
 
 public interface PaymentService {
